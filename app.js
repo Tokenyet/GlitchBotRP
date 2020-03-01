@@ -309,7 +309,7 @@ var App = /** @class */ (function () {
         return __awaiter(this, void 0, void 0, function () {
             var whitelist, corsOptions;
             return __generator(this, function (_a) {
-                whitelist = ['http://localhost:3050', 'http://localhost:3000', "http://192.168.1.104:3000", "http://TwitchRPbot.github.io"];
+                whitelist = ['http://localhost:3050', 'http://localhost:3000', "http://192.168.1.104:3000", "https://twitchrpbot.github.io"];
                 corsOptions = {
                     origin: function (origin, callback) {
                         // console.log(origin); // undefined = same origin
