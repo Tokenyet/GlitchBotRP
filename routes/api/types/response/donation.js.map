@@ -1,0 +1,1 @@
+{"version":3,"file":"donation.js","sourceRoot":"","sources":["../../../../../src/routes/api/types/response/donation.ts"],"names":[],"mappings":";;;;;AAAA,8DAA+B;AAElB,QAAA,sBAAsB,GAAG,sBAAG,CAAC,MAAM,CAAC;IAC/C,IAAI,EAAE,sBAAG,CAAC,MAAM,EAAE,CAAC,QAAQ,EAAE;IAC7B,IAAI,EAAE,sBAAG,CAAC,MAAM,EAAE,CAAC,QAAQ,EAAE;IAC7B,OAAO,EAAE,sBAAG,CAAC,GAAG,EAAE;CACnB,CAAC,CAAC"}
